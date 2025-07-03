@@ -62,8 +62,30 @@ flutter pub get
 flutter run
 ```
 
-### 👩‍💻 Author
+## 📱 Screenshots
 
+<p float="left">
+ 
+  <img src="screenshots/Login.jpeg" width="45%" />
+   <img src="screenshots/Home.jpeg" width="45%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/journals.jpeg" width="45%" />
+  <img src="screenshots/moodboost.jpeg" width="45%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/moodtrack1.jpeg" width="45%" />
+  <img src="screenshots/moodtrack2.jpeg" width="45%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/moodtrack3.jpeg" width="45%" />
+  <img src="screenshots/game.jpeg" width="45%" />
+</p>
+
+### 👩‍💻 Author
 **Hafsa Waseem**  
 Flutter Developer | UI/UX Enthusiast  
 Inspired by real-life challenges with patience and emotional regulation.
